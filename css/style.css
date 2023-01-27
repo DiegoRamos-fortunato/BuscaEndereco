@@ -1,0 +1,33 @@
+.container__form{
+   display: flex;
+   justify-content: center;
+   height: 100vh;
+   
+   
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    gap: 20px;
+
+}
+
+.campo__form{
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: 'Heebo', sans-serif;
+}
+
+.campo__escrita{
+    border: 2px solid black;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    margin-bottom: 10px;
+  
+    
+}
